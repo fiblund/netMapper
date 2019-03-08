@@ -1,0 +1,25 @@
+{
+  "device_list":
+          [
+            {
+              "name": "R1",
+              "ip": "192.168.187.201",
+              "type": "cisco_ios"
+            },
+            {
+              "name": "R2",
+              "ip": "192.168.187.202",
+              "type": "cisco_ios"
+            },
+            {
+              "name": "R3",
+              "ip": "192.168.187.203",
+              "type": "cisco_ios"
+            },
+            {
+              "name": "R4",
+              "ip": "192.168.187.204",
+              "type": "cisco_ios"
+            }
+          ]
+}
